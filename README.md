@@ -32,10 +32,9 @@ Before you begin, ensure you have the following:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-```
-2. ** Install dependencies **:
-    ```bash npm install ```
-3. ** Configure AWS credentials**: 
-    Ensure your AWS CLI is configured with the correct credentials:`
-    ```bash aws configure```
+   cd your-repo-name ```
+
+2. **Install dependencies**:
+     ```bash
+     npm install
+     ```
