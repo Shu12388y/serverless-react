@@ -1,0 +1,14 @@
+{
+  "name": "configuration",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev":"serverless offline",
+    "deploy":"serverless deploy"
+  },
+ 
+  "devDependencies": {
+    "serverless-offline": "^14.4.0"
+  }
+}
